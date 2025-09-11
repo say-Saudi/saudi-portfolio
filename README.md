@@ -47,7 +47,7 @@ This site showcases my projects, skills, and interests in **QA Automation**.
 - 📖 **Documentation:** Updated README file.  
 
 ### v1.0
-- ⚡ **Performance:** Compressed asset images to improve page loading time.  
+- 🌐 **First Release:** Released the source code.
 
 ---
 
