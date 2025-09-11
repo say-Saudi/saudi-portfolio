@@ -31,3 +31,19 @@ This site showcases my projects, skills, and interests in **QA Automation**.
 ├── css/              # Stylesheets
 ├── js/               # JavaScript files
 └── README.md         # Project documentation
+
+## 📌 Release Notes  
+
+### v1.0.2
+
+- **Documentation:** Added release notes to README file.  
+
+### v1.0.1  
+- **Performance:** Compressed asset images to improve page loading time.  
+- **Content Update:** Changed *About* section title and body. In addition, updated github profile url. 
+- **Portfolio:** Added project URL to Portfolio section.  
+- **Documentation:** Updated README file.  
+
+### v1.0
+- **Performance:** Compressed asset images to improve page loading time.  
+
